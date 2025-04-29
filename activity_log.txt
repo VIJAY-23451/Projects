@@ -1,1 +1,14 @@
 Here the Logs will Store!!
+Example Logs:
+[2025-04-29 14:12:03] Pressed: h
+[2025-04-29 14:12:04] Pressed: e
+[2025-04-29 14:12:05] Pressed: l
+[2025-04-29 14:12:06] Pressed: l
+[2025-04-29 14:12:07] Pressed: o
+[2025-04-29 14:12:08] Pressed: Key.space
+[2025-04-29 14:12:09] Pressed: w
+[2025-04-29 14:12:10] Pressed: o
+[2025-04-29 14:12:11] Pressed: r
+[2025-04-29 14:12:12] Pressed: l
+[2025-04-29 14:12:13] Pressed: d
+[2025-04-29 14:12:14] Pressed: Key.enter
