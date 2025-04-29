@@ -16,9 +16,9 @@ import time
 LOG_FILE = "activity_log.txt"
 SCREENSHOT_DIR = "screenshots"
 EMAIL_INTERVAL = 100  # seconds (5 minutes)
-SENDER_EMAIL = "vijay321478965@gmail.com"
-RECEIVER_EMAIL = "vijay321478965@gmail.com"
-EMAIL_PASSWORD = "vdycyzarobwsnewd"
+SENDER_EMAIL = "YourEmailHere@gmail.com"
+RECEIVER_EMAIL = "YourEmailHere@gmail.com"
+EMAIL_PASSWORD = "YourPassword Ex:(vdycyzarpuwsnewd)"
 
 # Setup
 os.makedirs(SCREENSHOT_DIR, exist_ok=True)
