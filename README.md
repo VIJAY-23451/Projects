@@ -1,5 +1,5 @@
 # Projects
-=========================================Keylogger===============================================
+=========================================Keylogger============================================
 ## ⚙️ Requirements
 ✅ You must have:
 - Python 3 installed  
@@ -35,5 +35,5 @@ python keylogger.py
 ✅ Run only on systems you **own** or **have written permission** to test.  
 ❌ Never deploy secretly. Unauthorized keylogging is **illegal** in most jurisdictions.
 
-===============================================================================================================
+=================================================================================================
 
